@@ -4,7 +4,7 @@ Sou o Rodrigo, tenho 16 anos e estou cursando Análise e Desenvolvimento de Sist
 
 ## Aprimorando conhecimento em:
 
-  <div style="display: inline_block"><br>
+  <div align="center">
   <img align="center" alt="Rod-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="Rod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
